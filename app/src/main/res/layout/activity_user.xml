@@ -24,7 +24,7 @@
         android:text="@string/userName"
         android:textAlignment="center"
         android:textColor="@color/colorAccent"
-        android:textSize="17sp"
+        android:textSize="18sp"
         android:textStyle="bold" />
 
     <EditText
