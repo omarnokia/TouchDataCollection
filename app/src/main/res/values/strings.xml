@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">TouchDataCollection</string>
+    <!-- Setting Barr-->
+    <string name="settings_name">Recording Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_select_all">Select All</string>
+    <string name="action_share">Share</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_ok">OK</string>
+
+
+    <!-- Touch Data-->
+    <string name="Gesture">Gesture :- </string>
+    <string name="GestureType">Gesture Type :- </string>
+    <string name="Size">Size :- </string>
+    <string name="Source">Source :- </string>
+    <string name="Pressure">Pressure :- </string>
+    <string name="DownTime">Down Time :- </string>
+    <string name="EventTime">Event Time :- </string>
+    <string name="LastXAxis">Last X Axis :- </string>
+    <string name="LastYAxis">Last Y Axis :- </string>
+    <string name="NewXAxis">New X Axis :- </string>
+    <string name="NewYAxis">New Y Axis :- </string>
+    <string name="LastXRaw">Last X Raw  :- </string>
+    <string name="LastYRaw">Last Y Raw :- </string>
+    <string name="NewXRaw">New X Raw :- </string>
+    <string name="NewYRaw">New Y Raw :- </string>
+    <string name="LastXPrecision">Last X Precision :- </string>
+    <string name="LastYPrecision">Last Y Precision :- </string>
+    <string name="NewXPrecision">New X Precision :- </string>
+    <string name="NewYPrecision">New Y Precision :- </string>
+    <string name="LastXPos">Last X Pos :- </string>
+    <string name="LastYPos">Last Y Pos :- </string>
+    <string name="NewXPos">New X Pos :- </string>
+    <string name="NewYPos">New Y Pos :- </string>
+    <string name="Direction">Direction Of Motion :- </string>
+    <string name="Speed">Speed Of Motion :- </string>
+    <!-- Recording -->
+    <string name="record_clock">%1$02d:%2$02d:%3$02d</string>
+    <string name="record_notification_clock">Recording %1$02d:%2$02d:%3$02d</string>
+    <string name="record_file_caption">File</string>
+    <string name="record_network_caption">Network</string>
+    <string name="record_start">Start Recording</string>
+    <string name="record_restart">Re-start</string>
+    <string name="record_stop">Stop</string>
+    <string name="record_pause">Pause</string>
+    <string name="record_file_error">Error %$1d</string>
+    <string name="record_network_text">%1$s port %2$d on %3$s</string>
+    <string name="record_network_error">Error %1$d</string>
+    <string name="record_network_connecting">Connecting</string>
+    <string name="record_network_connected">Connected</string>
+    <!--Layout Strings -->
+    <string name="newTrail">New Trail</string>
+    <string name="newUser">New User</string>
+    <string name="addTrail">Add Trail</string>
+    <string name="addUser">Add User</string>
+    <string name="save">Save</string>
+    <string name="userName">User Name:-</string>
+    <string name="exit">Exit</string>
+    <string name="splash_screen">Splash Screen</string>
+
+
+</resources>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0e30f1</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorValue">#FF4069FF</color>
+    <color name="recordStartBackground">#FAF031</color>
+    <color name="recordReStartBackground">#F1D131</color>
+    <color name="recordPuaseBackground">#FA6E31</color>
+    <color name="recordStopBackground">#f25f2a</color>
+    <color name="Black">#000000</color>
+    <color name="White">#FFFFFF</color>
+</resources>
